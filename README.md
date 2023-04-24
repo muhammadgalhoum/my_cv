@@ -1,2 +1,1 @@
-# my_cv
-This is my CV
+# My CV
